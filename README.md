@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/derrickmehaffy" target="blank"><img src="https://img.shields.io/twitter/follow/derrickmehaffy?logo=twitter&style=for-the-badge" alt="derrickmehaffy" /></a> </p>
 
-- 🔭 I’m currently working on [Strapi](https://github.com/strapi)
+- 🔭 I’m currently working at [Strapi](https://github.com/strapi)
 
 - 👨‍💻 All of my projects are available at [https://github.com/derrickmehaffy](https://github.com/derrickmehaffy)
 
-- 📝 I regularly write articles on [https://strapi.guru](https://strapi.guru)
+- 📝 I ~~regularly~~ sometimes write articles on [https://strapi.guru](https://strapi.guru)
 
 - 💬 Ask me about **DevOps, Strapi backend, or technology hardware**
 
