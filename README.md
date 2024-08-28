@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derrick "DMehaffy" Mehaffy</h1>
-<h3 align="center">A Solutions Engineer at Strapi and an advocate for Free Open Source Software</h3>
+<h3 align="center">the Support Engineering Manager at Strapi and an advocate for Free Open Source Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derrickmehaffy&label=Profile%20views&color=0e75b6&style=flat" alt="derrickmehaffy" /> </p>
 
